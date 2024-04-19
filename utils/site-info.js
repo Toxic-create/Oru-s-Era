@@ -5,12 +5,12 @@ const SITE = {
     fullname: "Olivia Rodrigo",
     birthdate: "2003-02-20",
     country: {
-      id: "https://musicbrainz.org/area/6f85633b-dff4-3fb4-babd-fb89b3628041",
-      name: "Panama"
+      id: "https://musicbrainz.org/artist/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      name: "Olivia"
     },
     province: {
-      id: "https://musicbrainz.org/area/e4038ab2-0e15-4987-855a-adf4f0878645",
-      name: "Panamá"
+      id: "https://musicbrainz.org/artist/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      name: "Olivia"
     }
   },
   protocol: "https",
