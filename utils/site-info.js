@@ -26,17 +26,17 @@ const SITE = {
   instagram: "sourspurple",
   socials: {
     spotify: "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG?si=ID-bxpzyTDKyuwpsjWrXnA",
-    soundcloud: "https://soundcloud.com/bayza",
-    youtube: "https://youtube.com/bayza",
+    soundcloud: "https://m.soundcloud.com/oliviarodrigo",
+    youtube: "https://youtube.com/@oliviarodrigoupdates?si=apls0JFG3jna_K6T",
     twitter: "https://twitter.com/bayzamusic",
     facebook: "https://facebook.com/bayzamusic",
-    instagram: "https://instagram.com/bayzamusic",
-    musicbrainz: "https://musicbrainz.org/artist/7b200a18-08d4-4d29-b0ce-ba6cd0a9b5e4"
+    instagram: "https://www.instagram.com/sourspurple/",
+    musicbrainz: "https://musicbrainz.org/artist/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
   },
   platforms: {
-    spotify: "https://open.spotify.com/artist/0UFz5jBFwlNKaq1JwESYnX",
-    soundcloud: "https://soundcloud.com/bayza",
-    youtube: "https://youtube.com/bayza",
+    spotify: "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG?si=ID-bxpzyTDKyuwpsjWrXnA",
+    soundcloud: "https://m.soundcloud.com/oliviarodrigo",
+    youtube: "https://youtube.com/@oliviarodrigoupdates?si=apls0JFG3jna_K6T",
     apple: "https://music.apple.com/us/artist/bayza/882647839?app=music&ls=1",
     itunes: "https://music.apple.com/us/artist/bayza/882647839?app=itunes&ls=1",
     beatport: "https://www.beatport.com/artist/bayza/411994",
