@@ -28,7 +28,7 @@ const SITE = {
     spotify: "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG?si=ID-bxpzyTDKyuwpsjWrXnA",
     soundcloud: "https://m.soundcloud.com/oliviarodrigo",
     youtube: "https://youtube.com/@oliviarodrigoupdates?si=apls0JFG3jna_K6T",
-    twitter: "https://twitter.com/bayzamusic",
+    twitter: "https://twitter.com/oliviarodrigo",
     facebook: "https://facebook.com/bayzamusic",
     instagram: "https://www.instagram.com/sourspurple/",
     musicbrainz: "https://musicbrainz.org/artist/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
