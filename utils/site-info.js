@@ -1,9 +1,9 @@
 const SITE = {
-  name: "Bayza",
-  domain: "bayzamusic.com",
+  name: "Olivia",
+  domain: "olivialivies.com",
   person: {
-    fullname: "Ahmed Rangel",
-    birthdate: "1998-06-15",
+    fullname: "Olivia Rodrigo",
+    birthdate: "2003-02-20",
     country: {
       id: "https://musicbrainz.org/area/6f85633b-dff4-3fb4-babd-fb89b3628041",
       name: "Panama"
@@ -14,9 +14,9 @@ const SITE = {
     }
   },
   protocol: "https",
-  meta_description: "Bayza is a Panamanian musician and producer.",
-  description: "Panamanian musician and producer",
-  keywords: "bayza, website, dj, producer, panama, music, EDM, dance, musician, artist, ahmed",
+  meta_description: "Olivia Isabel Rodrigo is an American singer-songwriter and actress.",
+  description: "Musician and Songwriter",
+  keywords: "Olivia Isabel Rodrigo is an American singer-songwriter and actress.",
   email: "info@bayzamusic.com",
   logo: "images/logomt.jpg",
   image: "images/ahmed_bannerweb3.jpg",
